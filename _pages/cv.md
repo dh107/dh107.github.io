@@ -11,30 +11,38 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Geophysics, Tongji University, 2012
+* M.S. in Geoscience, Rice University, 2015
+* Ph.D in Geography, Texas A&M University, 2020
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2021-present:  Postdoctoral Fellow
+  * Tsinghua University
+  * Developed Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019-2020:  Teaching Assistant
+  * Texas A&M University
+  * Taught and designed lab sections for GIS and remote sensing courses.
+
+* 2016-2019: Research Assistant
+  * Texas A&M University
+  * Developed image processing and feature detection software for an agricultural radar system.
+  * Quantified carbon sequestration capabilities of genetically modified plants.
+  * Funded by the Department of Energy of United States.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Scientific Programming and Modeling
+  * Python Matlab R SQL C++
+* Data Science
+  * Geodatabase
+  * Machine Learning
+  * Big Spatio-temporal Datasets
+* Geographic Information Systems
+* Geophysics
+* Remote Sensing (Satellite, Radar)
 
 Publications
 ======
