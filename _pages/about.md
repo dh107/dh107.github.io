@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Da Huo"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -16,4 +16,6 @@ I received my Ph.D. degree in Geography (GIS and remote sensing) from Texas A&M 
 
 My doctoral research focuses on understanding climate-glacier sensitivity through numerical modeling. I improved existing models for more accurate simulation of glacier processes in the Himalayas. I have worked at the Center for Geospatial Sciences, Applications and Technology at Texas A&M University where I developed remote sensing and geospatial applications to support carbon sequestration and bioenergy projects funded by the United States Department of Energy. I have strong coding and modelling skills and experience in geographic information systems (GIS), geophysics, satellite image processing, spatial statistics, and machine learning.
 
+For more info
+------
 Please check out other pages (publication, talks, teaching, CV) for more information.
