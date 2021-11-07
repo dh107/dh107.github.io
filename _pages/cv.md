@@ -44,6 +44,11 @@ Skills
 * Geophysics
 * Remote Sensing (Satellite, Radar)
 
+Certificates
+======
+* Machine learning (Stanford University online, 2015)
+* Deep learning for computer vision (Nvidia, 2020)
+
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -62,6 +67,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
