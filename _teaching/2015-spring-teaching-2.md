@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate and Undergraduate course"
 permalink: /teaching/2019-fall-teaching-2
 venue: "Texas A&M University, Department of Geography"
-date: 2019-08
+date: 2019-08-26
 location: "College Station, Texas, U.S."
 ---
 
