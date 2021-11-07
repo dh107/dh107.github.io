@@ -1,7 +1,7 @@
 ---
 title: "Passivesource Ocean Bottom Seismograph (OBS) array experiment in South China Sea and data quality analyses"
 collection: publications
-permalink: /publication/2014-04-26-OBS
+permalink: /publication/2014-04-26-obs
 excerpt: 'This paper is about passivesource Ocean Bottom Seismograph (OBS) array experiment and data quality analyses.'
 date: 2014-04-26
 venue: 'Chinese Science Bulletin,   Liu, C., Hua, Q., Pei, Y., Yang, T., Xia, X., Xue, M., Le, B., Huo, D., Liu, F., & Huang, H.'
