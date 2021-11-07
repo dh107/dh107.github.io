@@ -2,9 +2,9 @@
 title: "Seismic ambient noise around the South China Sea: seasonal and spatial variations, and implications for its climate and surface circulation"
 collection: publications
 permalink: /publication/2013-05-26-Seismic-ambient-noise
-excerpt: 'Authors: Huo, D., & Yang, T.   This paper is about seismic data processing for better understanding of seismic ambient noise using power spectral density and probability density function.'
+excerpt: 'This paper is about seismic data processing for better understanding of seismic ambient noise using power spectral density and probability density function.'
 date: 2013-05-26
-venue: 'Marine Geophysical Research'
+venue: 'Marine Geophysical Research,  Huo, D., & Yang, T.'
 paperurl: 'https://link.springer.com/content/pdf/10.1007/s11001-013-9176-6.pdf'
 
 ---
