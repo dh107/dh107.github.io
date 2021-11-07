@@ -1,20 +1,15 @@
 ---
-title: "Teaching experience 2"
+title: "GEOG 477/677: Terrain Analysis Mapping"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Graduate and Undergraduate course"
+permalink: /teaching/2019-fall-teaching-2
+venue: "Texas A&M University, Department of Geography"
+date: 2019-08
+location: "College Station, Texas, U.S."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Teaching assistant responsible for the lab sections.
 
-Heading 1
+Github Page
 ======
 
-Heading 2
-======
-
-Heading 3
-======
