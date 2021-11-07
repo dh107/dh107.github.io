@@ -1,0 +1,13 @@
+---
+title: "Near-real-time Global Gridded Daily CO2 Emissions"
+collection: publications
+permalink: /publication/2021-11-02-emission-maps-carbon-monitor 
+excerpt: 'In this paper, we present the first near-real-time Global Gridded Daily CO2 Emissions Dataset (GRACED) from fossil fuel and cement production with a global spatial-resolution of 0.1° by 0.1° and a temporal-resolution of 1-day.'
+date: 2021-11-02
+venue: 'The Innovation,   Xinyu Dou, Yilong Wang, Philippe Ciais, Frédéric Chevallier, Steven J Davis, Monica Crippa, Greet Janssens-Maenhout, Diego Guizzardi, Efisio Solazzo, Feifan Yan, Da Huo, Zheng Bo, Biqing Zhu, Duo Cui, Piyu Ke, Taochun Sun, Hengqi Wang, Qiang Zhang, Pierre Gentine, Zhu Deng, Zhu Liu'
+paperurl: 'https://doi.org/10.1016/j.xinn.2021.100182'
+
+---
+Abstract: Precise and high-resolution carbon dioxide (CO2) emission data is of great importance of achieving the carbon neutrality around the world. Here we present for the first time the near-real-time Global Gridded Daily CO2 Emissions Dataset (called GRACED) from fossil fuel and cement production with a global spatial-resolution of 0.1° by 0.1° and a temporal-resolution of 1-day. Gridded fossil emissions are computed for different sectors based on the daily national CO2 emissions from near real time dataset (Carbon Monitor), the spatial patterns of point source emission dataset Global Carbon Grid (GID), Emission Database for Global Atmospheric Research (EDGAR) and spatiotemporal patters of satellite nitrogen dioxide (NO2) retrievals. Our study on the global CO2 emissions responds to the growing and urgent need for high-quality, fine-grained near-real-time CO2 emissions estimates to support global emissions monitoring across various spatial scales. We show the spatial patterns of emission changes for power, industry, residential consumption, ground transportation, domestic and international aviation, and international shipping sectors from January 1, 2019 to December 31, 2020. This gives thorough insights into the relative contributions from each sector. Furthermore, it provides the most up-to-date and finer-grained overview of where and when fossil CO2 emissions have decreased and rebounded in response to emergencies (e.g. COVID-19) and other disturbances of human activities than any previously published dataset. As the world recovers from the pandemic and decarbonizes its energy systems, regular updates of this dataset will enable policymakers to more closely monitor the effectiveness of climate and energy policies and quickly adapt.
+
+[Download paper here](https://doi.org/10.1016/j.xinn.2021.100182)

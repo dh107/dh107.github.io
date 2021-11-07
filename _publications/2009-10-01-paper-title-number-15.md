@@ -1,0 +1,14 @@
+---
+title: "Understanding Complex Debris-Covered Glaciers: Concepts,
+Issues and Research Directions"
+collection: publications
+permalink: /publication/2021-05-24-understanding-dcg 
+excerpt: 'This paper is about glacier modeling. Our results demonstrate that climate forcing, the properties and transport of debris, topography and supraglacial water bodies are the key controlling factors in a debris-covered glacier system, and that their coupled effects and positive feedbacks may increase the ice loss of a debris-covered glacier. We also recommend new research directions for future studies.'
+date: 2021-05-24
+venue: 'Frontiers in Earth Science,   Huo, D., Bishop, M. P. & Bush, A.'
+paperurl: 'https://www.frontiersin.org/articles/10.3389/feart.2021.652279'
+
+---
+Abstract: Understanding the climate-glacier dynamics of debris-covered glaciers is notoriously difficult given a multitude of controlling factors and feedback mechanisms involving climate forcing, debris-load properties, supraglacial water bodies, and multi-scale topographic effects. Recent studies have provided insights into controlling factors, and have reported the presence of anomalies that contradict the general consensus of the protective influence of debris loads on ablation dynamics. Nevertheless, numerous processes that regulate glacier dynamics at various spatial and temporal scales have not been adequately accounted for in statistical and numerical modeling studies. Furthermore, important feedbacks involving ablation, topography, irradiance, gravitational debris flux, and supraglacial ponding are often neglected or oversimplified in existing models, which poses a challenge to our understanding of conflicting field observations such as the accelerated mass loss of many Himalayan glaciers, and glacier-subsystem responses (ice-flow, debris flux, surface morphology, and supraglacial water bodies) to climate forcing. This paper provides insights into the complexity of debris-covered glacier systems by addressing concepts and issues associated with forcing factors and glacial processes, and highlights the importance of understanding system couplings and feedbacks. Specifically, we review recent studies on debris-covered glaciers and utilize simulation results based on the Baltoro Glacier in the central Karakoram to discuss important concepts and issues. Our results demonstrate that climate forcing, the properties and transport of debris, topography and supraglacial water bodies are the key controlling factors in a debris-covered glacier system, and that their coupled effects and positive feedbacks may increase the ice loss of a debris-covered glacier. We also recommend new research directions for future studies.
+
+[Download paper here](https://www.frontiersin.org/articles/10.3389/feart.2021.652279)
