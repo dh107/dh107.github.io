@@ -31,7 +31,7 @@ Work experience
   * Quantified carbon sequestration capabilities of genetically modified plants.
   * Funded by the Department of Energy of United States.
 
-* 2014-2014: Halliburton|Landmark Graphics Corp
+* 2014-2014: Halliburton Landmark Graphics Corp
   *  Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion
 
 * 2012-2013: Research Assistant
