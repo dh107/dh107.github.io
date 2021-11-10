@@ -31,7 +31,14 @@ Work experience
   * Quantified carbon sequestration capabilities of genetically modified plants.
   * Funded by the Department of Energy of United States.
 
-  
+* 2014-2014: Halliburton|Landmark Graphics Corp
+  *  Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion
+
+* 2012-2013: Research Assistant
+  * Tongji University
+    * Collected and processed data for an ocean bottom seismometer array
+    * Studied the characteristics of microseism
+
 Skills
 ======
 * Scientific Programming and Modeling
