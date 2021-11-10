@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Geophysics, Tongji University, 2012
+* Ph.D. in Geography, Texas A&M University, 2020
 * M.S. in Geoscience, Rice University, 2015
-* Ph.D in Geography, Texas A&M University, 2020
+* B.S. in Geophysics, Tongji University, 2012
 
 Work experience
 ======
@@ -36,8 +36,8 @@ Work experience
 
 * 2012-2013: Research Assistant
   * Tongji University
-    * Collected and processed data for an ocean bottom seismometer array
-    * Studied the characteristics of microseism
+  * Collected and processed data for an ocean bottom seismometer array
+  * Studied the characteristics of microseism
 
 Skills
 ======
