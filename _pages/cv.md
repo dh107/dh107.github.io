@@ -18,8 +18,11 @@ Education
 Work experience
 ======
 * 2021-present:  Postdoctoral Fellow
-  * Tsinghua University
-  * Developed Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
+  * Developing Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
+  * Developing OpenPit-AI
+  * Studying low-carbon transitions of cities in China 
+  * Investigating city-level carbon neutrality pathways in collaboration with Alibaba Group
+	
 
 * 2019-2020:  Teaching Assistant
   * Texas A&M University
@@ -31,8 +34,11 @@ Work experience
   * Quantified carbon sequestration capabilities of genetically modified plants.
   * Funded by the Department of Energy of United States.
 
+* 2015-2016: Shaanxi Geology and Mining Group
+  * Developed geophysical data processing workflows and drafted project proposals.
+
 * 2014-2014: Halliburton Landmark Graphics Corp
-  *  Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion
+  * Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion
 
 * 2012-2013: Research Assistant
   * Tongji University

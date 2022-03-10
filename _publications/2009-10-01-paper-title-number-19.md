@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-03-09-reinforcement-learning-emission-GHG 
 excerpt: 'In this paper, we present a reinforcement learning-powered real-time dispatching algorithm for GHG emission reduction in mining operations'
 date: 2022-03-09
-venue: 'Resources, Conservation & Recycling, Da Huo, Yuksel Asli Sari, Ryan Kealey, Qian Zhang'
+venue: 'Resources, Conservation & Recycling, (under review),  Da Huo, Yuksel Asli Sari, Ryan Kealey, Qian Zhang'
 paperurl: 'https://dh107.github.io/publications/'
 
 ---
