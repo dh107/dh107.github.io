@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a geospatial data scientist currently working on greenhouse gas (particularly CO2) emission-related projects. I am a member of the Carbon Monitor team, and the main developer of the Carbon Monitor-Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ Global Cities. I am also investigating life cycle models to predict national electric and hydrogen fuel cell pathways for light-duty vehicle fleets, under different scenarios, to meet climate targets.
+Hi! I am Da Huo, a geospatial data scientist currently working on greenhouse gas (particularly CO2) emission-related projects. I am a member of the Carbon Monitor team, and the main developer of the Carbon Monitor-Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ Global Cities. I am also investigating life cycle models to predict national electric and hydrogen fuel cell pathways for light-duty vehicle fleets, to meet climate targets.
 
 My background and research
 ======
@@ -20,4 +20,4 @@ I have strong coding and data processing skills and experience in geographic inf
 
 For more info
 ------
-Please check out other pages (publication, talks, teaching, CV) for more information.
+Please check out other pages (publications, talks, teaching, CV) for more information.

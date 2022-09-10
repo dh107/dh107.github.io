@@ -1,10 +1,10 @@
 ---
 title: "Carbon Monitor Cities near-real-time daily estimates of CO2 emissions from 1500 cities worldwide"
 collection: publications
-permalink: /publication/2022-03-21-carbon-monitor-cities
-excerpt: 'In this paper, we present Carbon Monitor Cities, near-real-time daily estimates of CO2 emissions from 1500 cities worldwide'
+permalink: /publication/2022-09-01-carbon-monitor-cities
+excerpt: 'In this paper, we present Carbon Monitor Cities, near-real-time daily estimates of CO2 emissions from 1500 cities worldwide.'
 date: 2022-09-01
-venue: 'Scientific Data, Huo, D., Huang, X., Dou, X., Ciais, P., ... & Liu, Z. '
+venue: 'Scientific Data, Huo, D., Huang, X., Dou, X., Ciais, P., ... & Liu, Z.'
 paperurl: 'https://doi.org/10.1038/s41597-022-01657-z'
 
 ---
