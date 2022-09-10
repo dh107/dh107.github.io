@@ -17,6 +17,9 @@ Education
 
 Work experience
 ======
+* 2022-present:  Rising Stars in Clean Energy Postdoctoral Fellow
+  * Modeling electric and hydrogen fuel cell pathways for light-duty vehicles, to meet climate targets 
+  
 * 2021-present:  Postdoctoral Fellow
   * Developing Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
   * Developing OpenPit-AI
