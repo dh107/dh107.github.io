@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-11-10-cmcc
 excerpt: 'In this paper, we present present Carbon Monitor Cities-China (CMCC), a near-real-time dataset of daily CO2 emissions from fossil fuel and cement production for 48 major high-emission cities in China. CMCC is developed based on an innovative framework that integrates bottom-up inventory construction and daily emission estimates from sectoral activities and models.'
 date: 2022-11-10
-venue: 'Scientific Data (in review), Huo, D., Liu, K., Liu, J., ... , Liu, Z. '
+venue: 'Scientific Data, Huo, D., Liu, K., Liu, J., ... , Liu, Z. '
 paperurl: 'https://www.nature.com/articles/s41597-022-01796-3/'
 
 ---
