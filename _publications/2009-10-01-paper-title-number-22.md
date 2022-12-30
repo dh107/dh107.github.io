@@ -1,13 +1,14 @@
 ---
-title: "Charging toward decarbonized electrification: Revisiting Beijing's power system"
+title: "Near-real-time daily estimates of fossil fuel CO2 emissions from major high-emission cities in China"
 collection: publications
-permalink: /publication/2023-01-01-beijing-power
-excerpt: 'This study investigates the driving forces behind Beijing's rapid electrification and contributions to city-level decarbonization.'
-date: 2023-01-01
-venue: 'Energy Strategy Reviews,  Da Huo, Qian Zhang, Yujie Dong, Christopher Kennedy, Chao Zhang '
-paperurl: 'https://doi.org/10.1016/j.esr.2022.101039'
+permalink: /publication/2022-11-10-cmcc
+excerpt: 'In this paper, we present present Carbon Monitor Cities-China (CMCC), a near-real-time dataset of daily CO2 emissions from fossil fuel and cement production for 48 major high-emission cities in China. CMCC is developed based on an innovative framework that integrates bottom-up inventory construction and daily emission estimates from sectoral activities and models.'
+date: 2022-11-10
+venue: 'Scientific Data, Huo, D., Liu, K., Liu, J., ... , Liu, Z. '
+paperurl: 'https://www.nature.com/articles/s41597-022-01796-3/'
 
 ---
-Abstract: Beijing's power system has experienced a significant transition by eliminating coal-fired power generation and increasing the extent of electrification over the past two decades. This study uses a plant-level dataset, pair wise energy flow, and customized index decomposition analysis to investigate the driving forces behind Beijing's rapid electrification and carbon mitigation effects. Our assessment approaches can reveal the role of electrification in driving city-level emissions and identify a reasonable timeline to accelerate electrification for cities. We find that electrification related factors are responsible for 21.8% of carbon emission changes in Beijing between 1995 and 2019. The extent of electrification in Beijing has doubled from 9.5% in 1995 to 19% in 2019, while the carbon intensity of electricity consumption has reduced by 26%. Particularly, the average emission intensity of Beijing's local power generation has dropped from 860 tCO2e/GWh in 2000 to 370 tCO2e/GWh in 2018, which is far below a critical level at which the high penetration of electricity in transportation and housing should be prioritized for decarbonization. Our results confirm that Beijing is in the best position to accelerate electrification to meet its carbon neutrality goals; however, this will increasingly rely on regionally collaborative decarbonization efforts with surrounding regions.
+Abstract: Cities in China are on the frontline of low-carbon transition which requires monitoring city-level emissions with low-latency to support timely climate actions. Most existing CO2 emission inventories lag reality by more than one year and only provide annual totals. To improve the timeliness and temporal resolution of city-level emission inventories, we present Carbon Monitor Cities-China (CMCC), a near-real-time dataset of daily CO2 emissions from fossil fuel and cement production for 48 major high-emission cities in China. This dataset provides territory-based emission estimates from 2020-01-01 to 2021-12-31 for five sectors: power generation, residential (buildings and services), industry, ground transportation, and aviation. CMCC is developed based on an innovative framework that integrates bottom-up inventory construction and daily emission estimates from sectoral activities and models. Annual emissions show reasonable agreement with other datasets, and uncertainty ranges are estimated for each city and sector. CMCC provides valuable daily emission estimates that enable low-latency mitigation monitoring for cities in China.
 
-[Download paper here](https://doi.org/10.1016/j.esr.2022.101039)
+[Download paper here](https://www.nature.com/articles/s41597-022-01796-3/)
+
