@@ -1,9 +1,9 @@
 ---
 title: "Charging toward decarbonized electrification: Revisiting Beijing's power system"
 collection: publications
-permalink: /publication/2023-01-01-electrification-beijing-power-system 
-excerpt: 'This study uses power plant-level data, GHG emission accounting, pair-wise energy flow, and customized index decomposition analysis to investigate the driving forces behind Beijing's rapid electrification and carbon mitigation effects. Results quantifiy the contribution of electrification in the Beijing's power sector decarbonization and confirm that Beijing is in the best position to accelerate electrification to meet its carbon neutrality goals; however, this will increasingly rely on regionally collaborative decarbonization efforts with surrounding regions.'
-date: 2023-01-01
+permalink: /publication/2022-12-29-electrification-beijing-power-system 
+excerpt: 'This study uses power plant-level data, GHG emission accounting, pair-wise energy flow, and customized index decomposition analysis to investigate the driving forces behind Beijing's rapid electrification and carbon mitigation effects. Results quantify the contribution of electrification in Beijing's power sector decarbonization and confirm that Beijing is in the best position to accelerate electrification to meet its carbon neutrality goals; however, this will increasingly rely on regionally collaborative decarbonization efforts with surrounding regions.'
+date: 2022-12-29
 venue: 'Energy Strategy Reviews,  Da Huo, Qian Zhang, Yujie Dong, Christopher Kennedy, Chao Zhang'
 paperurl: 'https://doi.org/10.1016/j.esr.2022.101039'
 
