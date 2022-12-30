@@ -1,9 +1,9 @@
 ---
 title: "Charging toward decarbonized electrification: revisiting Beijings power system"
 collection: publications
-permalink: /publication/2022-11-11-beijingpower
+permalink: /publication/2023-01-01-beijingpower
 excerpt: 'This study investigates the driving forces behind Beijings rapid electrification and contributions to city-level decarbonization.'
-date: 2022-11-11
+date: 2023-01-01
 venue: 'Energy Strategy Reviews, Huo, D., Zhang, Q., Dong, Y., Kennedy, C., Zhang, C. '
 paperurl: 'https://doi.org/10.1016/j.esr.2022.101039'
 
