@@ -15,12 +15,12 @@ My background
 I received my Ph.D. degree in Geography from Texas A&M University in 2020. I received my M.Sc. degree in Geoscience from Rice University and B.Sc. in Geophysics from Tongji University.
 I am a Rising Stars in Clean Energy post-doctoral fellow at the University of Toronto, and I have worked as a post-doctoral researcher at Queen’s University and Tsinghua University.
 
-Planetary health is the ultimate concern of my research, my recent work provide datasets, tools, quantitative analysis to support low-carbon transition and the application of AI in decarbonisation.
+Planetary health is the ultimate concern of my research, my recent work provide datasets, tools, and quantitative analysis to support low-carbon transition and AI applications in decarbonisation.
 
 My research
 ======
 * Modeling and comparing life cycle GHG emissions and decarbonization pathways for light-duty vehicle fleets in US, China and UK (University of Toronto)
-* Item Developing OpenPit-AI: an AI-powered fleet management system for emission reduction in mining operations (Queen's University)
+* Developing OpenPit-AI: an AI-powered fleet management system for emission reduction in mining operations (Queen's University)
 * Investigating relationship between electrification and low carbon transitions of cities (Queen's University)
 * Leading the development of Carbon Monitor-Cities: the first near-real-time daily CO2 emission dataset for cities worldwide (Tsinghua University)
 * Leading a project on city-level carbon neutrality in collaboration with Alibaba Cloud
