@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a researcher working on greenhouse gas (GHG) emissions and low-carbon transitions of cities worldwide. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling and comparing life cycle GHG emissions for light-duty vehicle fleets in US, China and UK, to guide decarbonisation and EV policies.
+Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling and comparing life cycle GHG emissions for vehicle fleets to guide decarbonisation policies.
+
+I am also interested in assessing climate change impacts from a natural science perspective, including glaciers and ice sheets, natural carbon sinks and global carbon cycle. For my Ph.D. I studied glaciers in the Himalayas using physics-based numerical models and satellite remote sensing.
 
 My background
 ======
 I received my Ph.D. degree in Geography from Texas A&M University in 2020. I received my M.Sc. degree in Geoscience from Rice University and B.Sc. in Geophysics from Tongji University.
 I am a Rising Stars in Clean Energy post-doctoral fellow at the University of Toronto, and I have worked as a post-doctoral researcher at Queen’s University and Tsinghua University.
 
-Planetary health is the ultimate concern of my research, my recent work provide datasets, tools, and quantitative analysis to support low-carbon transition and AI applications in decarbonisation.
+Planetary health is the ultimate concern of my research, my recent work provide data, AI-powered tools, and quantitative analysis to support climate change science and mitigation strategies.
 
 My research
 ======
