@@ -32,12 +32,13 @@ My research
 
 News
 ======
+* 01/2024:  A paper on AI application in low-carbon mining "Smart dispatching for low-carbon mining fleet: A deep reinforcement learning approach" is published on Journal of Cleaner Production
+* 11/2023: A paper for our recent study on EV and decarbnization pathway is submitted to Energy Policy "How Do We Decarbonize One Billion Vehicles by 2050? Insights from a Comparative Life Cycle Assessment of Electrifying Light-Duty Vehicle Fleets in the United States, China, and the United Kingdom"
 * 04/2023: Abstract "Smart Mining Fleet Dispatching System to Reduce Greenhouse Gas Emissions Using Deep Reinforcement Learning" has been accepted by 11th International Conference on Industrial Ecology (ISIE2023).
 * 04/2023: Abstract "Charging toward decarbonized electrification: Revisiting Beijing’s power system" has been accepted by 11th International Conference on Industrial Ecology (ISIE2023).
 * 04/2023: Abstract "Carbon Monitor Cities, Near-Real-Time Monitoring of Daily Fossil-Fuel CO2 Emissions from Cities Worldwide" has been accepted by 11th International Conference on Industrial Ecology (ISIE2023).
 * 09/2022: I am invited to give a keynote speech on "Near-Real-Time Estimates of Daily Fossil-Fuel CO2 Emissions from Cities Worldwide" at the Metrology for Climate Action Workshop 2022
 * 05/2022: I have been selected as a Rising Stars in Clean Energy Postdoctoral Fellow at the University of Toronto (Climate Positive Energy fellowships)
-* 05/2022: Presented "Greenhouse Gas Emission Reduction for Mining Fleets via Smart Dispatching Based on Deep Reinforcement Learning" at the CIM 2022 Annual Convention
 
 Links and media reports
 ======
