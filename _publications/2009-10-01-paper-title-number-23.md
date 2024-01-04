@@ -1,9 +1,9 @@
 ---
 title: "Smart dispatching for low-carbon mining fleet: A deep reinforcement learning approach"
 collection: publications
-permalink: /publication/2024-01-05-ai
+permalink: /publication/2024-01-01-ai
 excerpt: 'In this paper, we present an improved version of the AI-based (deep Q-network) smart dispatching system for reducing GHG emissions from mining fleets, we also highlight AI's low cost and near-term feasibility in decarbonization as compared to electrification and carbon capture storage'
-date: 2024-01-05
+date: 2024-01-03
 venue: 'Journal of Cleaner Production, Huo, D., Sari, Y.A., Zhang, Q. '
 paperurl: 'https://doi.org/10.1016/j.jclepro.2023.140459'
 
