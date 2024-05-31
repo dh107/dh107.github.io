@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling and comparing life cycle GHG emissions for vehicle fleets to guide decarbonisation policies.
-
-I am also interested in assessing climate change impacts from a natural science perspective, including glaciers and ice sheets, natural carbon sinks and global carbon cycle. For my Ph.D. I studied glaciers in the Himalayas using physics-based numerical models and satellite remote sensing.
+Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developing AI-powered tools for support low-carbon mining.
 
 My background
 ======
