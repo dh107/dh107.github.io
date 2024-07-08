@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developing AI-powered tools for low-carbon mining.
+Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developing AI-powered tools for low-carbon mining. I am currently working as a Project Lead on GHG/energy systems modelling at the City of Toronto.
 
 My background
 ======
@@ -19,6 +19,7 @@ Planetary health is the ultimate concern of my research, my recent work provide 
 
 My research
 ======
+* Modelling Toronto's 2040 net-zero GHG emissions pathways to drive policy and test actions for citywide emissions reductions (City of Toronto)
 * Modeling and comparing life cycle GHG emissions and decarbonization pathways for light-duty vehicle fleets in US, China and UK (University of Toronto)
 * Developing OpenPit-AI: an AI-powered fleet management system for emission reduction in mining operations (Queen's University)
 * Investigating relationship between electrification and low carbon transitions of cities (Queen's University)

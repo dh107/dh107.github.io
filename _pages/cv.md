@@ -11,16 +11,19 @@ redirect_from:
 
 Education
 ======
-* Ph.D. in Geography, Texas A&M University, 2020
-* M.S. in Geoscience, Rice University, 2015
-* B.S. in Geophysics, Tongji University, 2012
+* Ph.D. Texas A&M University, 2020
+* M.S. Rice University, 2015
+* B.S.  Tongji University, 2012
 
 Work experience
 ======
-* 2022-present:  Rising Stars in Clean Energy Postdoctoral Fellow
-  * Modeling electric and hydrogen fuel cell pathways for light-duty vehicles, to meet climate targets 
+* 2024-present:  Project Lead Environment (GHG/energy systems modeller)
+  * Modelling Toronto's 2040 net-zero GHG emissions pathways to drive policy and test actions for citywide emissions reductions
+
+* 2022-2024:  Rising Stars in Clean Energy Postdoctoral Fellow
+  * Modeling life cycle fleet electrification pathways for light-duty vehicles, to meet climate targets 
   
-* 2021-present:  Postdoctoral Fellow
+* 2021-2023:  Postdoctoral Fellow
   * Developing Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
   * Developing OpenPit-AI
   * Studying low-carbon transitions of cities in China 
@@ -57,7 +60,6 @@ Skills
   * Machine Learning
   * Big Spatio-temporal Datasets
 * Geographic Information Systems
-* Geophysics
 * Remote Sensing (Satellite, Radar)
 
 Certificates
