@@ -8,14 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developed AI-powered tools for low-carbon mining. I am currently working as a Project Lead on GHG/energy systems modelling at the City of Toronto.
+Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developed AI-powered tools for low-carbon mining. I am currently working as a Project Lead on GHG emissions and energy systems modelling at the City of Toronto.
 
 My background
 ======
 I received my Ph.D. from Texas A&M University in 2020. I received my M.Sc. from Rice University and B.Sc. from Tongji University.
 I am a Rising Stars in Clean Energy post-doctoral fellow at the University of Toronto, and I have worked as a post-doctoral researcher at Queen’s University and Tsinghua University.
 
-Planetary health is the ultimate concern of my research, my recent work provide data, AI-powered tools, and quantitative analysis to support climate change science and mitigation strategies.
+Planetary health is the ultimate concern of my research, my recent work provide model, data, AI-powered tools, and quantitative analysis to support climate change science and mitigation strategies.
 
 My research
 ======
@@ -31,6 +31,8 @@ My research
 
 News
 ======
+* 10/2024:  A paper on LCA of vehicle fleet electrification "How do we decarbonize one billion vehicles by 2050? Insights from a comparative life cycle assessment of electrifying light-duty vehicle fleets in the United States, China, and the United Kingdom" is published on Energy Policy
+* 09/2024:  I am invited to give a talk on "Local Emissions for Net Zero (LENZ) Modelling Suite: Supporting Toronto's Transition Towards Net-Zero" at Civic Tech in Toronto
 * 01/2024:  A paper on AI application in low-carbon mining "Smart dispatching for low-carbon mining fleet: A deep reinforcement learning approach" is published on Journal of Cleaner Production
 * 11/2023: A paper for our recent study on EV and decarbnization pathway is submitted to Energy Policy "How Do We Decarbonize One Billion Vehicles by 2050? Insights from a Comparative Life Cycle Assessment of Electrifying Light-Duty Vehicle Fleets in the United States, China, and the United Kingdom"
 * 04/2023: Abstract "Smart Mining Fleet Dispatching System to Reduce Greenhouse Gas Emissions Using Deep Reinforcement Learning" has been accepted by 11th International Conference on Industrial Ecology (ISIE2023).
