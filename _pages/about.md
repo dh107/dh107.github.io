@@ -8,14 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Da Huo, a researcher working on climate change and greenhouse gas (GHG) emissions. I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I am also modeling life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developed AI-powered tools for low-carbon mining. I am currently working as a Project Lead on GHG emissions and energy systems modelling at the City of Toronto.
+Hi! I am Da Huo, my research centers on the drivers, impacts and mitigation of climate change, with a particular focus on greenhouse gas (GHG) emissions quantification and reduction. I am a Project Lead at the City of Toronto.
 
 My background
 ======
 I received my Ph.D. from Texas A&M University in 2020. I received my M.Sc. from Rice University and B.Sc. from Tongji University.
-I am a Rising Stars in Clean Energy post-doctoral fellow at the University of Toronto, and I have worked as a post-doctoral researcher at Queen’s University and Tsinghua University.
+I have worked as a post-doctoral researcher at the University of Toronto, Queen's University and Tsinghua University.
 
 Planetary health is the ultimate concern of my research, my recent work provide model, data, AI-powered tools, and quantitative analysis to support climate change science and mitigation strategies.
+
+ I am the lead developer of the Carbon Monitor Cities dataset (https://cities.carbonmonitor.org/), which is the first near-real-time daily CO2 emission dataset for 1500+ cities. I have studied life cycle GHG emissions for vehicle fleets to guide decarbonisation policies, and developed AI models for low-carbon mining.
 
 My research
 ======
@@ -23,7 +25,7 @@ My research
 * Modeling and comparing life cycle GHG emissions and decarbonization pathways for light-duty vehicle fleets in US, China and UK (University of Toronto)
 * Developing OpenPit-AI: an AI-powered fleet management system for emission reduction in mining operations (Queen's University)
 * Investigating relationship between electrification and low carbon transitions of cities (Queen's University)
-* Leading the development of Carbon Monitor-Cities: the first near-real-time daily CO2 emission dataset for cities worldwide (Tsinghua University)
+* Leading the development of Carbon Monitor-Cities: near-real-time daily CO2 emission dataset for cities worldwide (Tsinghua University)
 * Leading a project on city-level carbon neutrality in collaboration with Alibaba Cloud
 * Developing a ground penetrating radar data processing software for DOE (Texas A&M University)
 * Studying climate-glacier dynamics using numerical simulations (Texas A&M University)
