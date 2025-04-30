@@ -17,18 +17,18 @@ Education
 
 Work experience
 ======
-* 2024-present:  Project Lead Environment (GHG/energy systems modeller)
-  * Modelling Toronto's 2040 net-zero GHG emissions pathways to drive policy and test actions for citywide emissions reductions
+* 2024-present:  Project Lead (City of Toronto)
+  * Modelling Toronto's 2040 net-zero GHG emissions pathways to drive policy and test actions for citywide emissions reductions.
+  * City-level greenhouse gases quantification, reporting, data governance.
 
 * 2022-2024:  Rising Stars in Clean Energy Postdoctoral Fellow
-  * Modeling life cycle fleet electrification pathways for light-duty vehicles, to meet climate targets 
+  * Modeling life cycle fleet electrification pathways for light-duty vehicles, to meet climate targets. 
   
-* 2021-2023:  Postdoctoral Fellow
-  * Developing Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level
-  * Developing OpenPit-AI
-  * Studying low-carbon transitions of cities in China 
-  * Investigating city-level carbon neutrality pathways in collaboration with Alibaba Group
-	
+* 2021-2023:  Shuimu Tsinghua Scholar, Postdoctoral Fellow
+  * Developed Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level.
+  * Developed OpenPit-AI.
+  * Studied low-carbon energy transition for cities.
+  * Investigated city-level carbon neutrality pathways in collaboration with Alibaba Group.
 
 * 2019-2020:  Teaching Assistant
   * Texas A&M University
@@ -36,7 +36,7 @@ Work experience
 
 * 2016-2019: Research Assistant
   * Texas A&M University
-  * Developed image processing and feature detection software for an agricultural radar system.
+  * Developed image processing and feature detection software for an radar system.
   * Quantified carbon sequestration capabilities of genetically modified plants.
   * Funded by the Department of Energy of United States.
 
@@ -44,23 +44,12 @@ Work experience
   * Developed geophysical data processing workflows and drafted project proposals.
 
 * 2014-2014: Halliburton Landmark Graphics Corp
-  * Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion
+  * Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion.
 
 * 2012-2013: Research Assistant
   * Tongji University
-  * Collected and processed data for an ocean bottom seismometer array
-  * Studied the characteristics of microseism
-
-Skills
-======
-* Scientific Programming and Modeling
-  * Python Matlab R SQL C++
-* Data Science
-  * Geodatabase
-  * Machine Learning
-  * Big Spatio-temporal Datasets
-* Geographic Information Systems
-* Remote Sensing (Satellite, Radar)
+  * Collected and processed data for an ocean bottom seismometer array.
+  * Studied the characteristics of microseism.
 
 Certificates
 ======

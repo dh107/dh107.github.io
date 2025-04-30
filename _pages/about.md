@@ -31,6 +31,7 @@ My research
 
 News
 ======
+* 02/2025:  I am invited to give a talk at ISIE webinar "From Research to Practice: How Science Informs Government Decision Making" on the topic of modelling Toronto's Net Zero Strategy
 * 10/2024:  A paper on LCA of vehicle fleet electrification "How do we decarbonize one billion vehicles by 2050? Insights from a comparative life cycle assessment of electrifying light-duty vehicle fleets in the United States, China, and the United Kingdom" is published on Energy Policy
 * 09/2024:  I am invited to give a talk on "Local Emissions for Net Zero (LENZ) Modelling Suite: Supporting Toronto's Transition Towards Net-Zero" at Civic Tech in Toronto
 * 01/2024:  A paper on AI application in low-carbon mining "Smart dispatching for low-carbon mining fleet: A deep reinforcement learning approach" is published on Journal of Cleaner Production
