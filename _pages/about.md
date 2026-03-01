@@ -26,7 +26,6 @@ My research
 * Developing OpenPit-AI: an AI-powered fleet management system for emission reduction in mining operations (Queen's University)
 * Investigating relationship between electrification and low carbon transitions of cities (Queen's University)
 * Leading the development of Carbon Monitor-Cities: near-real-time daily CO2 emission dataset for cities worldwide (Tsinghua University)
-* Leading a project on city-level carbon neutrality in collaboration with Alibaba Cloud
 * Developing a ground penetrating radar data processing software for DOE (Texas A&M University)
 * Studying climate-glacier dynamics using numerical simulations (Texas A&M University)
 * Studying Earth ambient noise using data collected from ocean-bottom seismometers (Tongji University)

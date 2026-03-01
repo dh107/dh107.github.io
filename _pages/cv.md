@@ -17,18 +17,16 @@ Education
 
 Work experience
 ======
-* 2024-present:  Project Lead (City of Toronto)
+* 2024-present:  Project Lead (Energy System and GHG Modeler)
+  * City of Toronto
   * Modelling Toronto's 2040 net-zero GHG emissions pathways to drive policy and test actions for citywide emissions reductions.
   * City-level greenhouse gases quantification, reporting, data governance.
 
-* 2022-2024:  Rising Stars in Clean Energy Postdoctoral Fellow
-  * Modeling life cycle fleet electrification pathways for light-duty vehicles, to meet climate targets. 
-  
-* 2021-2023:  Shuimu Tsinghua Scholar, Postdoctoral Fellow
-  * Developed Carbon Monitor Cities: A near-real-time daily global CO2 emission dataset at city level.
-  * Developed OpenPit-AI.
-  * Studied low-carbon energy transition for cities.
-  * Investigated city-level carbon neutrality pathways in collaboration with Alibaba Group.
+* 2021-2024:  Postdoctoral Fellow
+  * Modeling life cycle vehicle fleet electrification pathways to meet climate targets (University of Toronto)
+  * Developed Carbon Monitor Cities (Tsinghua University, part-time)
+  * Developed OpenPit-AI (Queen's University)
+  * Studied low-carbon energy transition pathways for cities (Queen's University)
 
 * 2019-2020:  Teaching Assistant
   * Texas A&M University
@@ -40,15 +38,11 @@ Work experience
   * Quantified carbon sequestration capabilities of genetically modified plants.
   * Funded by the Department of Energy of United States.
 
-* 2015-2016: Shaanxi Geology and Mining Group
-  * Developed geophysical data processing workflows and drafted project proposals.
-
 * 2014-2014: Halliburton Landmark Graphics Corp
   * Developed software workflows for DecisionSpace Geosciences and Well Seismic Fusion.
 
 * 2012-2013: Research Assistant
   * Tongji University
-  * Collected and processed data for an ocean bottom seismometer array.
   * Studied the characteristics of microseism.
 
 Certificates
