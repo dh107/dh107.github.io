@@ -48,7 +48,6 @@ Links and media reports
 [Carbon Monitor Cities](https://cities.carbonmonitor.org/)
 [Discover Magazine Planet Earth](https://www.discovermagazine.com/planet-earth/how-much-carbon-dioxide-does-your-city-produce-each-day)
 [Energy Central News](https://energycentral.com/news/carbon-monitor-cities-near-real-time-daily-estimates-co-2-emissions-1500-cities-worldwide)
-[Tsinghua University News](https://www.tsinghua.edu.cn/info/1175/98143.htm)
 
 For more info
 ------
